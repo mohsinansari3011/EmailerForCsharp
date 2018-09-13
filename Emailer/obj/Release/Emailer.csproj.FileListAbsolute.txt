@@ -1,0 +1,5 @@
+c:\users\mohsin\documents\visual studio 2013\Projects\Emailer\Emailer\bin\Emailer.dll.config
+c:\users\mohsin\documents\visual studio 2013\Projects\Emailer\Emailer\bin\Emailer.dll
+c:\users\mohsin\documents\visual studio 2013\Projects\Emailer\Emailer\bin\Emailer.pdb
+c:\users\mohsin\documents\visual studio 2013\Projects\Emailer\Emailer\obj\Release\Emailer.dll
+c:\users\mohsin\documents\visual studio 2013\Projects\Emailer\Emailer\obj\Release\Emailer.pdb

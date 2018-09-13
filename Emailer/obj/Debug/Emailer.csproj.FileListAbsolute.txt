@@ -1,0 +1,6 @@
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\bin\Emailer.dll.config
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\bin\Emailer.dll
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\bin\Emailer.pdb
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\obj\Debug\Emailer.dll
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\obj\Debug\Emailer.pdb
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\Emailer\Emailer\obj\Debug\Emailer.csprojResolveAssemblyReference.cache
